@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto Twitter Bot PT", "Crypto Twitter Bot PT\Crypto Twitter Bot PT.csproj", "{56DB2F5A-2B6F-4E09-A1C3-3EE2DD39578E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DB2F5A-2B6F-4E09-A1C3-3EE2DD39578E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DB2F5A-2B6F-4E09-A1C3-3EE2DD39578E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DB2F5A-2B6F-4E09-A1C3-3EE2DD39578E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DB2F5A-2B6F-4E09-A1C3-3EE2DD39578E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A406A23-DE23-412C-AD66-AFB90FEEFD18}
+	EndGlobalSection
+EndGlobal
